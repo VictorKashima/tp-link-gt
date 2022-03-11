@@ -7,11 +7,11 @@
 <img src = "https://media.giphy.com/media/DADPAT9e6NCLlsTBeK/giphy.gif">
 </div>
 <pre align="left">
-                O carrinho funciona através do arduino com 4 modos.
+                    O carrinho funciona através do arduino com 4 modos.
 Modo 1 / Stand by = carrinho fica parado com todas funções desligadas para poupar energia.
 Modo 2 / Automático = funciona de modo automático seguindo a linha feita com fita isolante.
 Modo 3 / Infra Vermelho = funciona manualmente de acordo com os sinais do controle remoto.
-Modo 4 / Bluetooth = funciona manualmente de acordo com os sinais enviados pelo bluetooth (celular).
+Modo 4 / Bluetooth = funciona manualmente de acordo com os sinais enviados pelo bluetooth.
     </pre>
 <br>
 
