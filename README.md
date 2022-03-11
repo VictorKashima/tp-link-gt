@@ -40,4 +40,3 @@
 
 </pre>
     <h2 align="center">Videos do projeto</h2>
-https://youtu.be/qpJTAfmHn1c
