@@ -18,6 +18,7 @@ Modo 4 / Bluetooth = funciona manualmente de acordo com os sinais enviados pelo 
 
 <pre>
 <h2 align="center">Fotos do projeto</h2>
+</pre>
 <table>
 <tr>
 <td>
@@ -34,4 +35,4 @@ Modo 4 / Bluetooth = funciona manualmente de acordo com os sinais enviados pelo 
 </tr>
 
 
-</pre>
+
