@@ -33,9 +33,9 @@ Modo 4 / Bluetooth = funciona manualmente de acordo com os sinais enviados pelo 
         height="900"
         width="500"
         >
-
-</pre>
 </tr>
+</pre>
+
 
 
 
