@@ -40,3 +40,11 @@
 
 </pre>
     <h2 align="center">Videos do projeto</h2>
+    
+Funções do carrinho:
+
+https://user-images.githubusercontent.com/100085891/157990302-36afdeab-69af-46f0-9c9d-4047a43ca03c.mp4
+
+Modo automático sem a capota:
+
+https://user-images.githubusercontent.com/100085891/157990322-161154a4-b44f-457a-8dda-a0309122646b.mp4
