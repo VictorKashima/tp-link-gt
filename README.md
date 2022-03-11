@@ -18,7 +18,7 @@
 
 <pre>
     <h2 align="center">Fotos do projeto</h2>
-        <div align="center">
+        
             <img src = "https://github.com/VictorKashima/IR_CAR_ARUINO/blob/main/FOTOS%20DO%20PROJETO/Vertical.jpg?raw=true"
             alt="Ligações"
             width="700"
@@ -35,6 +35,7 @@
             width="700"
             height="500"
             >
+        </div>
 </pre>
 
 
