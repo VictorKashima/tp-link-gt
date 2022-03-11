@@ -24,13 +24,11 @@ Modo 4 / Bluetooth = funciona manualmente de acordo com os sinais enviados pelo 
 <td>
         <img src = "https://github.com/VictorKashima/IR_CAR_ARUINO/blob/main/FOTOS%20DO%20PROJETO/Chassis.jpeg?raw=true" 
         alt="Foto do chassis"
-        style="width:120%"
         >
 
 <td>
         <img src = "https://github.com/VictorKashima/IR_CAR_ARUINO/blob/main/FOTOS%20DO%20PROJETO/Superior%20sem%20capota.jpeg?raw=true" 
         alt="Foto superior"
-        style="width:120%"
         >
 </tr>
 
