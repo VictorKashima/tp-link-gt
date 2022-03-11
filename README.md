@@ -17,19 +17,5 @@ Modo 4 / Bluetooth = funciona manualmente de acordo com os sinais enviados pelo 
     </pre>
 
 <pre>
-<h2 align="center">Modo 1 / Stand By</h2>
-<p align="left">
-
-  if(Modo == 1){
-    digitalWrite(LED1, HIGH);
-    digitalWrite(LED2, LOW);
-    digitalWrite(LED3, LOW);
-    digitalWrite(LED4, LOW);
-    
-    void parado();
-
-    modoF = 0;
-    modoB = 0;
-    modoD = 0;
-    modoE = 0;
-  }
+<h2 align="center">Fotos do projeto</h2>
+<img src = ">
