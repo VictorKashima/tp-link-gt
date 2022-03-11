@@ -38,7 +38,7 @@ style="width:100%"
 
 <style>
     Foto1, Foto2{
-        width:400px;
+        width:100px;
     }
     .Foto{
         display: flex;
