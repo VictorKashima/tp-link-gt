@@ -34,14 +34,5 @@ Modo 4 / Bluetooth = funciona manualmente de acordo com os sinais enviados pelo 
     </div>
 </div>
 
-<style>
-.Foto1{
-    float:left;
-    width: 50%;
-.Foto:after{
-    content: "";
-    clear: both;
-    display: table;
-}
 
 </pre>
