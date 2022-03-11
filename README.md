@@ -20,10 +20,10 @@ Modo 4 / Bluetooth = funciona manualmente de acordo com os sinais enviados pelo 
 <h2 align="center">Fotos do projeto</h2>
 <div align="center">
     <img src = "https://github.com/VictorKashima/IR_CAR_ARUINO/blob/main/FOTOS%20DO%20PROJETO/Vertical.jpg?raw=true"
-    width="1000"
+    width="900"
     height="1000"
     >
-    
+
 </pre>
 
 
