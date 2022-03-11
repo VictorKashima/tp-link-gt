@@ -11,8 +11,8 @@
 <p align="justify">
 Modo 1 / Stand by = carrinho fica parado com todas funções desligadas para poupar energia.
 Modo 2 / Automático = funciona de modo automático seguindo a linha feita com fita isolante.
-Modo 3 / Infra Vermelho = controlado pelo controle remoto.
-Modo 4 / Bluetooth = controlado pelo celular com a conexão bluetooth.
+Modo 3 / Infra Vermelho = funciona manualmente de acordo com os sinais do controle remoto.
+Modo 4 / Bluetooth = funciona manualmente de acordo com os sinais enviados pelo bluetooth.
 </p>
     </pre>
 
