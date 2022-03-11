@@ -18,4 +18,4 @@ Modo 4 / Bluetooth = funciona manualmente de acordo com os sinais enviados pelo 
 
 <pre>
 <h2 align="center">Fotos do projeto</h2>
-<img src = ">
+<img src = "FOTOS_DO_PROJETO/Chassis.jpeg">
