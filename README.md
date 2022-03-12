@@ -7,6 +7,9 @@
 <div align="center">
     <img src = "https://media.giphy.com/media/DADPAT9e6NCLlsTBeK/giphy.gif">
 </div>
+
+<img src ="https://img.shields.io/badge/TPLINK-GT-blue">
+
 <pre>
     <h3 align="center">O carrinho funciona através do arduino com 4 modos.</h3>
         <p align="center">
@@ -30,7 +33,7 @@
             width="700"
             height="500"
             >
-            <h3 align="center">Versão final</h2>
+            <h3 align="center">Versão   final</h2>
             <img src = "https://github.com/VictorKashima/IR_CAR_ARUINO/blob/main/FOTOS%20DO%20PROJETO/Final.jpg?raw=true"
             alt="Final"
             width="700"
