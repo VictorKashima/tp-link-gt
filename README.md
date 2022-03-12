@@ -8,9 +8,11 @@
     <img src = "https://media.giphy.com/media/DADPAT9e6NCLlsTBeK/giphy.gif">
 </div>
 
-<img src ="https://img.shields.io/badge/TPLINK-GT-blue">
-<img src ="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-<img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<p>
+    <img src ="https://img.shields.io/badge/TPLINK-GT-blue">
+    <img src ="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+    <img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</p>
 
 <pre>
     <h3 align="center">O carrinho funciona através do arduino com 4 modos.</h3>
