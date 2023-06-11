@@ -9,20 +9,17 @@
 </div>
 
 <p align="center">
-    <img src ="https://img.shields.io/badge/TPLINK-GT-blue"
+    <img src ="badge/victorkashima-badge-tplinkgt.svg"
     height="30"
-    widht="100"
     >
 </p>
 
 <p align="center">
     <img src ="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"
     height="30"
-    width="100"
     >
     <img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
     height="30"
-    width="100"
     >
 </p>
 
